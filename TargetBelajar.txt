@@ -1,3 +1,6 @@
 - HTML
-- CSS
 - Javascript
+  ^Vue
+  ^Apasto
+  ^React
+- Phyton
