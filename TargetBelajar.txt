@@ -1,6 +1,7 @@
 - HTML
 - Javascript
-  ^Vue
-  ^Apasto
   ^React
-- Phyton
+  ^Vite
+- PHP
+  ^Laravel
+
